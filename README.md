@@ -11,7 +11,7 @@ The **Decentralized Voting System** is built on the Ethereum blockchain using So
 - **Stop Voting**: The admin can terminate the voting process.
 - **View Results**: The system displays the winning candidate once voting ends.
 - **MetaMask Integration**: Transactions and interactions are facilitated through MetaMask.
-- **Event Tracking**: All key actions, such as candidate registration and votes cast, are recorded on the blockchain.
+- **Event Tracking**: All key actions, such as candidate votes cast, are recorded on the blockchain.
 
 ## Smart Contract (VotingSystem.sol)
 
